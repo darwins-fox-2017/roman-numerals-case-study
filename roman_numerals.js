@@ -20,4 +20,4 @@ Please answer the questions below :
 9. Apakah dampak dari pola atau pattern tersebut terhadap performa aplikasi? Bagaimana kamu mengukur dampaknya?
 
 10. Apakah dampak dari pola atau pattern terhadap maintenance code? Kenapa kamu bisa yakin?
-*/
+*/ 
