@@ -2,7 +2,7 @@
 Please answer the questions below :
 
 1. Apakah semua solusi bisa di eksekusi? Bagaimana caranya mem-verifikasinya?
-
+   
 2. Apakah ada solusi code yang mengandung *bugs*? Dan bagaimana cara mem-verifikasinya?
 
 3. Adakah sintaks baru yang belum kamu ketahui? Apakah ada operator baru, expression atau method baru?
@@ -20,4 +20,4 @@ Please answer the questions below :
 9. Apakah dampak dari pola atau pattern tersebut terhadap performa aplikasi? Bagaimana kamu mengukur dampaknya?
 
 10. Apakah dampak dari pola atau pattern terhadap maintenance code? Kenapa kamu bisa yakin?
-*/ 
+*/
